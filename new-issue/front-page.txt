@@ -9,21 +9,21 @@ Serving you daily printed news since before newspapers went online.
 * headline
 
 ## Sports
-* headline
+* Moonauts 93 - 78 Crows
 * headline
 
 ## Culture
-* headline
-* headline
+* Local board game tournament hosted by Adventures Underground
+* Soduku grips nation
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    Hail
+Monday:    Blizzard
+Tuesday:   Sunny
+Wednesday: Fair
+Thursday:  Cloudy
+Friday:    Snow
+Saturday:  Rain
 
 June 27, 2016
 25 cents
